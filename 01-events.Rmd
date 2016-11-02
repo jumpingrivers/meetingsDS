@@ -1,0 +1,12 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# Events
+
+The format for listing an event is:
+
+  * Month: [event name & link](http://www.example.com). Town, Country. Twitter name.
+
+## 2017 {-}
+

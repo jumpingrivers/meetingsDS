@@ -1,0 +1,25 @@
+--- 
+title: "A list of data science events and meetings"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+twitter-handle: riversjumping
+description: "A list of data science events and meetings."
+github-repo: jumpingrivers/meetingsDS
+url: 'https\://jumpingrivers.github.io/meetingsDS/'
+---
+
+# Overview {-}
+
+This site attempts to list data science events and groups. Please 
+feel free to add any missing group or conference. 
+
+To propose a change, just click the pencil icon
+in the top left hand corner.
+
+
+### Technical bit {-}
+
+The html files for this document live in the `docs/` directory of the [repository](https://github.com/jumpingrivers/meetingsDS/). Travis
+creates the html files from the `.Rmd` files and commits them to the `docs/` directory.

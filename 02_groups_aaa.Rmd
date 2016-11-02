@@ -1,0 +1,13 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# Data Science User Groups
+
+Groups are listed by contintent then by country. Where appropriate, groups are 
+divided within country, e.g. in the USA, by state & in the United Kingdom, by member country.
+
+The suggested format for listing a group is
+
+  * Town name: [Group name & link](http://www.example.com/); [\@Twitter_handle](http://www.example.com/)
+

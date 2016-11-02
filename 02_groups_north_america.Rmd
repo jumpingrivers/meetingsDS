@@ -1,0 +1,11 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+## North America
+
+### Canada 
+  
+
+### United States of America
+

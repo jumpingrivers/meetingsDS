@@ -1,0 +1,6 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+## South America
+

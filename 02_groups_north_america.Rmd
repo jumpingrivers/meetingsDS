@@ -9,3 +9,12 @@ knit: "bookdown::preview_chapter"
 
 ### United States of America
 
+#### New York {-}
+
+  * New York: [NYC Data Science](https://www.meetup.com/NYC-Data-Science/)
+  
+#### Washington {-}
+
+  * Washington: [DC data science learning group](https://www.meetup.com/DC-Data-Science-Learning-Group/)
+  
+  

@@ -18,6 +18,9 @@ feel free to add any missing group or conference.
 To propose a change, just click the pencil icon
 in the top left hand corner.
 
+We also maintain a separate list of [R events and meetups](https://jumpingrivers.github.io/meetingsR/).
+
+
 
 ### Technical bit {-}
 

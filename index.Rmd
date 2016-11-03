@@ -15,7 +15,7 @@ url: 'https\://jumpingrivers.github.io/meetingsDS/'
 This site attempts to list data science events and groups. Please 
 feel free to add any missing group or conference. 
 
-To propose a change, just click the pencil icon in the top left hand corner.
+To propose a change, just click the pencil icon in the top left hand corner of the page.
 
 We also maintain a separate list of [R events and meetups](https://jumpingrivers.github.io/meetingsR/).
 

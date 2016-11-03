@@ -21,6 +21,7 @@ update_website() {
   git commit -a -m "Travis: updating meetings (${TRAVIS_BUILD_NUMBER})"
   git status
   git push origin master 2>err.txt
+  git status
   cd ..
 }
 

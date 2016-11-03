@@ -16,6 +16,6 @@ The format for listing an event is:
   * July: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Beijing, China.
   * September: [Strata + Hadoop World](http://conferences.oreilly.com/strata): New York, USA.
 
-## 2016: 
+## 2016 {-}
 
   * December: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Singapore.

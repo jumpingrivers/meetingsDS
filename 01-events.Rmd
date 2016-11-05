@@ -10,3 +10,12 @@ The format for listing an event is:
 
 ## 2017 {-}
 
+  * January: [StanCon](http://mc-stan.org/events/stancon.html): New York, USA.
+  * March: [Strata + Hadoop World](http://conferences.oreilly.com/strata): San Jose, USA.
+  * May: [Strata + Hadoop World](http://conferences.oreilly.com/strata): London, UK.
+  * July: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Beijing, China.
+  * September: [Strata + Hadoop World](http://conferences.oreilly.com/strata): New York, USA.
+
+## 2016 {-}
+
+  * December: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Singapore.

@@ -79,15 +79,14 @@ The suggested format for listing a group is
 
   * Brussels: [Data Science group](https://www.meetup.com/Data-Science-Community-Meetup/events/223397829/)
 
-
 ### UK
 
-#### England {-}
+#### England
 
   * London: [Data Science London](https://www.meetup.com/Data-Science-London/)
   * Newcastle: [Machine Learning NE](https://twitter.com/ML_NorthEast); [\@ML_NorthEast](https://twitter.com/ML_NorthEast)
   
-#### Scotland {-}
+#### Scotland
 
   * Edinburgh: [Scotland Data Science Technology Meetup/](https://www.meetup.com/Scotland-Data-Science-Technology-Meetup/)
 
@@ -113,11 +112,15 @@ knit: "bookdown::preview_chapter"
 
 ### United States of America
 
-#### New York {-}
+#### Maryland 
+
+  * Baltimore: [Data-Science-MD](https://www.meetup.com/Data-Science-MD/); [\@DataScienceMD](https://twitter.com/DataScienceMD)
+
+#### New York 
 
   * New York: [NYC Data Science](https://www.meetup.com/NYC-Data-Science/)
   
-#### Washington {-}
+#### Washington
 
   * Washington: [DC data science learning group](https://www.meetup.com/DC-Data-Science-Learning-Group/)
   

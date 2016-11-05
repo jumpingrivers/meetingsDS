@@ -9,6 +9,10 @@ knit: "bookdown::preview_chapter"
 
 ### United States of America
 
+#### Maryland 
+
+  * Baltimore: [Data-Science-MD](https://www.meetup.com/Data-Science-MD/); [\@DataScienceMD](https://twitter.com/DataScienceMD)
+
 #### New York {-}
 
   * New York: [NYC Data Science](https://www.meetup.com/NYC-Data-Science/)

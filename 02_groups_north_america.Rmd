@@ -15,6 +15,7 @@ knit: "bookdown::preview_chapter"
 
 #### New York 
 
+  * Buffalo: [Buffalo Data Science](https://bufdatascience.github.io/)
   * New York: [NYC Data Science](https://www.meetup.com/NYC-Data-Science/)
   
 #### Washington

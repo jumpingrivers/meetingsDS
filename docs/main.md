@@ -136,6 +136,8 @@ knit: "bookdown::preview_chapter"
 
 ### Australia
 
+  * Melbourne: [Data Science Melbourne](http://www.datasciencemelbourne.com/); [\@DataScienceMelb](https://twitter.com/DataScienceMelb)
+
 ### New Zealand
 
 

@@ -85,6 +85,7 @@ The suggested format for listing a group is
 
   * London: [Data Science London](https://www.meetup.com/Data-Science-London/)
   * Newcastle: [Machine Learning NE](https://twitter.com/ML_NorthEast); [\@ML_NorthEast](https://twitter.com/ML_NorthEast)
+  * Oxford: [Data-Science-Oxford](http://www.meetup.com/Data-Science-Oxford/)
   
 #### Scotland
 

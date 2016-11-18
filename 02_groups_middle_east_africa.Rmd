@@ -4,3 +4,6 @@ knit: "bookdown::preview_chapter"
 
 ## Middle East/ Africa
 
+#### South Africa
+
+  * Cape Town: [Data Science Meetup](http://www.meetup.com/Cape-Town-Data-Science-Meetup/)

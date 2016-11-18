@@ -104,7 +104,7 @@ knit: "bookdown::preview_chapter"
   * Cape Town: [Cape Town Data Science Meetup](http://www.meetup.com/Cape-Town-Data-Science-Meetup/)
   * Durban: [Durban Data Science & Numerical Wizardry](http://www.meetup.com/Durban-Data-Science-Numerical-Wizardry/)
   * Johannesburg: [Data Science Johannesburg](http://www.meetup.com/Data-Science-Johannesburg/)
-  * Johannesbug: [The Intelligence Group](http://www.meetup.com/The-Intelligence-Group-Johannesburg/); [\@intelligence_za](https://twitter.com/intelligence_za)
+  * Johannesbug: [The Intelligence Group](http://www.meetup.com/The-Intelligence-Group-Johannesburg/); [@intelligence_za](https://twitter.com/intelligence_za)
   
 
 <!--chapter:end:02_groups_middle_east_africa.Rmd-->

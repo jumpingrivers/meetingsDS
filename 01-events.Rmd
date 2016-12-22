@@ -13,6 +13,7 @@ The format for listing an event is:
   * January: [StanCon](http://mc-stan.org/events/stancon.html): New York, USA.
   * March: [Strata + Hadoop World](http://conferences.oreilly.com/strata): San Jose, USA.
   * May: [Strata + Hadoop World](http://conferences.oreilly.com/strata): London, UK.
+  * June [EuroVA 2017 is the eighth international EuroVis workshop on Visual Analytics](http://www.eurova.org/): Barcelona, Spain.
   * July: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Beijing, China.
   * September: [Strata + Hadoop World](http://conferences.oreilly.com/strata): New York, USA.
 

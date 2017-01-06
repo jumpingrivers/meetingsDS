@@ -11,11 +11,16 @@ The format for listing an event is:
 ## 2017 {-}
 
   * January: [StanCon](http://mc-stan.org/events/stancon.html): New York, USA.
+  * February: [AnacondaCon](https://anacondacon17.io/): Austin (TX), USA.
   * March: [Strata + Hadoop World](http://conferences.oreilly.com/strata): San Jose, USA.
+  * March: [Sloan sports conference](http://www.sloansportsconference.com/): Boston (MA), USA.
+  * May: [pyData](http://pydata.org/events.html): London, UK.
   * May: [Strata + Hadoop World](http://conferences.oreilly.com/strata): London, UK.
+  * May: [Deep Learning in Healthcare](https://www.re-work.co/events/deep-learning-health-london-2016): London, UK.
   * June [EuroVA 2017 is the eighth international EuroVis workshop on Visual Analytics](http://www.eurova.org/): Barcelona, Spain.
   * July: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Beijing, China.
   * September: [Strata + Hadoop World](http://conferences.oreilly.com/strata): New York, USA.
+  * October: [Tableau Conference 2017 - Read more at: http://scq.io/JivzSrh0#gs.bMCXs0c](https://tc16.tableau.com/tc17): Las Vegas, USA.
 
 ## 2016 {-}
 

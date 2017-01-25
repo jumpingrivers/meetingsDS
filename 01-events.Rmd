@@ -14,6 +14,7 @@ The format for listing an event is:
   * February: [AnacondaCon](https://anacondacon17.io/): Austin (TX), USA.
   * March: [Strata + Hadoop World](http://conferences.oreilly.com/strata): San Jose, USA.
   * March: [Sloan sports conference](http://www.sloansportsconference.com/): Boston (MA), USA.
+  * March: [Data Fest](http://www.datafest.global/): Edinburgh, UK.
   * May: [pyData](http://pydata.org/events.html): London, UK.
   * May: [Strata + Hadoop World](http://conferences.oreilly.com/strata): London, UK.
   * May: [Deep Learning in Healthcare](https://www.re-work.co/events/deep-learning-health-london-2016): London, UK.

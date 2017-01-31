@@ -40,18 +40,56 @@ The format for listing an event is:
 
 ## 2017 {-}
 
-  * January: [StanCon](http://mc-stan.org/events/stancon.html): New York, USA.
-  * February: [AnacondaCon](https://anacondacon17.io/): Austin (TX), USA.
-  * March: [Strata + Hadoop World](http://conferences.oreilly.com/strata): San Jose, USA.
-  * March: [Sloan sports conference](http://www.sloansportsconference.com/): Boston (MA), USA.
-  * March: [Data Fest](http://www.datafest.global/): Edinburgh, UK.
-  * May: [pyData](http://pydata.org/events.html): London, UK.
-  * May: [Strata + Hadoop World](http://conferences.oreilly.com/strata): London, UK.
-  * May: [Deep Learning in Healthcare](https://www.re-work.co/events/deep-learning-health-london-2016): London, UK.
-  * June [EuroVA 2017 is the eighth international EuroVis workshop on Visual Analytics](http://www.eurova.org/): Barcelona, Spain.
-  * July: [Strata + Hadoop World](http://conferences.oreilly.com/strata): Beijing, China.
-  * September: [Strata + Hadoop World](http://conferences.oreilly.com/strata): New York, USA.
-  * October: [Tableau Conference 2017 - Read more at: http://scq.io/JivzSrh0#gs.bMCXs0c](https://tc16.tableau.com/tc17): Las Vegas, USA.
+### Januuary
+
+  * [StanCon](http://mc-stan.org/events/stancon.html): New York, USA.
+
+### February
+
+  * [AnacondaCon](https://anacondacon17.io/): Austin (TX), USA.
+  * [Spark Summit East](https://spark-summit.org/east-2017/): Boston (MA), USA.
+  * [Radstats](http://www.radstats.org.uk/conference): Edinburgh, UK.
+
+### March
+
+  * [Strata + Hadoop World](http://conferences.oreilly.com/strata): San Jose, USA.
+  * [Sloan sports conference](http://www.sloansportsconference.com/): Boston (MA), USA.
+  * [Data Fest](http://www.datafest.global/): Edinburgh, UK.
+
+### May
+
+  * [pyData](http://pydata.org/events.html): London, UK.
+  * [Strata + Hadoop World](http://conferences.oreilly.com/strata): London, UK.
+  * [Deep Learning Summit Boston](https://www.re-work.co/events/deep-learning-summit-boston-2017): Boston (MA), USA.
+
+### June 
+
+  * [EuroVA 2017 is the eighth international EuroVis workshop on Visual Analytics](http://www.eurova.org/): Barcelona, Spain.
+
+### July
+
+  * [Strata + Hadoop World](http://conferences.oreilly.com/strata): Beijing, China.
+  * [JSM](https://ww2.amstat.org/meetings/jsm/2017/index.cfm): Baltimore (MD), USA.
+
+### September
+
+  * [Strata + Hadoop World](http://conferences.oreilly.com/strata): New York, USA.
+  * [Deep Learning Summit London](https://www.re-work.co/events/deep-learning-summit-london-2017): London, UK.
+
+### October
+
+  * [Tableau Conference 2017 - Read more at: http://scq.io/JivzSrh0#gs.bMCXs0c](https://tc16.tableau.com/tc17): Las Vegas, USA.
+  * [Deep Learning Summit Montreal](https://www.re-work.co/events/deep-learning-summit-montreal-canada-2017): Montreal, Canada.
+
+### November
+
+  * [Open Data Science West](http://www.odsc.com/california): San Francisco (CA), USA.
+  * [Deep Learning Summit Hong Kong](https://www.re-work.co/events/deep-learning-summit-hong-kong-2017): Hong Kong, China.
+  * [MLCONF San Francisco](http://mlconf.com/events/san-francisco-ca-2): San Francisco (CA), USA.
+
+### December
+
+  * [Neural Information Processing Systems](https://nips.cc/Conferences/2017): Los Angeles (CA), USA.
 
 ## 2016 {-}
 

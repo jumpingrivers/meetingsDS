@@ -38,6 +38,12 @@ The format for listing an event is:
 
   * Month: [event name & link](http://www.example.com). Town, Country. Twitter name.
 
+## 2018 {-}
+
+### Januuary
+
+ * [StanCon](http://mc-stan.org/events/stancon2018/): California, USA.
+ 
 ## 2017 {-}
 
 ### Januuary

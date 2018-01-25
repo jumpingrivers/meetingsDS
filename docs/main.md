@@ -142,6 +142,9 @@ The suggested format for listing a group is
 
   * Edinburgh: [Scotland Data Science Technology Meetup/](https://www.meetup.com/Scotland-Data-Science-Technology-Meetup/)
 
+#### Slovakia
+  * Bratislava: [PyData Bratislava](https://www.meetup.com/PyData-Bratislava/), [R <- Slovakia](https://www.facebook.com/groups/931707906955080/), [skczTUG (Tableau User Group)](https://community.tableau.com/groups/czech-and-slovak)
+
 <!--chapter:end:02_groups_europe.Rmd-->
 
 ---

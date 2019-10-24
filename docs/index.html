@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html >
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>A list of data science events and meetings</title>
-  <meta name="description" content="A list of data science events and meetings.">
-  <meta name="generator" content="bookdown 0.6 and GitBook 2.6.7">
+  <meta name="description" content="A list of data science events and meetings." />
+  <meta name="generator" content="bookdown 0.14 and GitBook 2.6.7" />
 
   <meta property="og:title" content="A list of data science events and meetings" />
   <meta property="og:type" content="book" />
@@ -25,19 +24,23 @@
 
 
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
 
-<link rel="next" href="events.html">
+<link rel="next" href="events.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -128,12 +131,14 @@
 </div>
 <div id="overview" class="section level1 unnumbered">
 <h1>Overview</h1>
-<p>This site attempts to list data science events and groups. Please feel free to add any missing group or conference.</p>
+<p>This site attempts to list data science events and groups. Please
+feel free to add any missing group or conference.</p>
 <p>To propose a change, just click the pencil icon in the top left hand corner of the page.</p>
 <p>We also maintain a separate list of <a href="https://jumpingrivers.github.io/meetingsR/">R events and meetups</a>.</p>
 <div id="technical-bit" class="section level3 unnumbered">
 <h3>Technical bit</h3>
-<p>The html files for this document live in the <code>docs/</code> directory of the <a href="https://github.com/jumpingrivers/meetingsDS/">repository</a>. Travis creates the html files from the <code>.Rmd</code> files and commits them to the <code>docs/</code> directory.</p>
+<p>The html files for this document live in the <code>docs/</code> directory of the <a href="https://github.com/jumpingrivers/meetingsDS/">repository</a>. Travis
+creates the html files from the <code>.Rmd</code> files and commits them to the <code>docs/</code> directory.</p>
 
 </div>
 </div>
@@ -148,11 +153,13 @@
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -161,10 +168,11 @@ gitbook.start({
 "facebook": true,
 "twitter": true,
 "google": false,
+"linkedin": false,
 "weibo": false,
-"instapper": false,
+"instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -174,6 +182,10 @@ gitbook.start({
 "edit": {
 "link": "https://github.com/jumpingrivers/meetingsDS/edit/master/index.Rmd",
 "text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
 },
 "download": null,
 "toc": {
